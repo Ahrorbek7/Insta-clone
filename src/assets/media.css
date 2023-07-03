@@ -1,0 +1,635 @@
+@media (min-width:992px) and (max-width:1200px){
+    .post-list img {
+        margin: 0 4rem;
+    }
+    .explore-video {
+        width: 250px !important;
+        height: 250px !important;
+    }
+    .posts-block {
+        width: 150% !important;
+    }
+    .explore-container {
+        left: 20%;
+    }
+    .home-form {
+        width: 60%;
+        left: 40% !important;
+    }
+    .home-container {
+        position: absolute;
+        left: 10% !important;
+    }
+    .explore-modal {
+        height: 500px !important;
+    }
+    .img-user img {
+        margin: 0 4rem;
+        width: 100px;
+        height: 100px;
+    }
+    .posted-tab {
+        left: 30% !important;
+    }
+    .upload-post-section {
+        margin: 1rem 15% !important;
+    }
+    .profile-footer {
+        margin: 0 20% !important;
+        left: 0%;
+        position: absolute;
+    }
+    .close-explore-modal{
+        top: -25%;
+        font-size: 15px;
+    }
+    .explore-video--statistics  {
+        height: 24% !important;
+        padding-top: 0.4rem;
+    }
+    .explore-video--statistics input {
+        margin-top: -1rem;
+    }
+    .addition-navbar {
+        width: 300px !important;
+    }
+    .addition-navbar img {
+        width: 40px;
+        height: 40px;
+    }
+    .nav-shorter .nav-router {
+        width: 20% !important;
+        justify-content: center;
+        margin: 0.5rem  !important;
+    }
+    .reels-block {
+        width: 50% !important;
+    }
+    .navbar {
+        width: 20vw;
+    }
+}
+@media (min-width:769px) and (max-width:991px) {
+    .navbar {
+        width: 30vw;
+    }
+    .profile-container {
+        margin: 0 40%;
+    }
+    .home-form {
+        width: 70%;
+    }
+    .addition-navbar {
+        width: 35vw;
+    }
+    .posts-block {
+        width: 120% !important;
+        margin: 10% -40% !important;
+    }
+    .profile-info {
+        margin: 1rem 0;
+    }
+    .home-container h3 {
+        position: absolute;
+        top: -3%;
+    }
+    .profile-footer {
+        margin: 0 -10% !important;
+        width: 100% !important;
+    }
+    .home-container {
+        left: 25%;
+        position: absolute;
+    }
+    .explore-container {
+        left: 30%;
+        flex-wrap: wrap;
+        width: 70% !important;
+    }
+    .explore-video {
+        width: 280px !important;
+        height: 280px !important;
+    }
+    .reels-block {
+        width: 50% !important;
+    }
+    .explore-video {
+        width: 260px !important;
+    }
+    .profile-container img {
+        width: 100px;
+        height: 100px;
+        margin: 0 2rem;
+    }
+    .posted-tab {
+        width: 60%;
+        height: 5vh;
+        display: flex;
+        left: 35% !important;
+        align-items: center;
+        justify-content: center;
+    }
+    .posted-tab h3 {
+        margin: 1rem auto !important;
+    }
+    .modal-content-weighter {
+        width: 700px !important;
+    }
+    .modal-content-weighter .photo-reponsive {
+        width: 390px !important;
+        position: absolute;
+        left: 28.5%;
+        height: 510px;
+        margin: 0 !important;
+    }
+    .post-alt video {
+        margin: 0 1rem;
+        height: 50px;
+    }
+    .upload-post-section {
+        left: 0 !important;
+        margin: 0 -25% !important;
+    }
+}
+@media (min-width:577px) and (max-width:768px) {
+    .navbar {
+        width: 30vw;
+        width: 100%;
+        height: 10%;
+        display: flex !important;
+        flex-direction: row;
+        bottom: 0;
+    }
+    .explore-modal {
+        flex-direction: column;
+        display: flex;
+        border-top-left-radius: 10px;
+        overflow: hidden;
+        border-top-right-radius: 10px;
+        top:50%;
+    }
+    .explore-video--statistics h4 {
+        margin: 0.5rem 1rem !important;
+    }
+    .posted-user--commented {
+        height: 5vh !important;
+    }
+    .explore-video--statistics i {
+        margin: 1rem !important;
+    }
+    .explore-modal video {
+        width: 80% !important;
+        top: 0;
+        background-color: rgb(38, 38, 38);
+        height: 200px !important;
+        margin: 0 auto !important;
+    }
+    .explore-video--comments  {
+        width: 100%;
+        height: 60% !important;
+    }
+    .explore-video--statistics  {
+        height:17% !important;
+        background-color: white;
+        width: 100% !important;
+        bottom: 9%;
+    }
+    .explore-video--statistics input {
+        margin: 2.3rem 0 !important;
+        height: 4vh;
+        padding: 1.5rem 1rem;
+    }
+    .navbar-link {
+        display: flex;
+        height: 100%;
+        padding-right: 1rem;
+        width: 100%;
+        padding-top: 1rem;
+        flex-direction: row;  
+        justify-content: space-around !important;
+    }
+    .home-form {
+        width: 100% !important;
+    }
+    .search-router {
+        display: none !important;
+    }
+    .nav-router {
+        width: 7.7% !important;
+        margin: 0 !important;
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+    }
+    .nav-router:hover i {
+        font-size: 30px;
+        color: rgb(20, 10, 77);
+    }
+    .nav-router:hover {
+        background-color: white;
+    }
+    .nav-router i {
+        margin: 0 .7rem;
+        font-size: 30px;
+    }
+    .navbar-text-img{
+        display: none;
+    }
+    .profile-container {
+        margin: 0 !important;
+    }
+    .home-form {
+        width: 70%;
+    }
+    .addition-navbar {
+        width: 35vw;
+    }
+    .posts-block {
+        width: 120% !important;
+        margin: 10% -40% !important;
+    }
+    .profile-info {
+        margin: 1rem 0;
+        width: 100%;
+        left: 0 !important;
+        margin: 0 !important;
+    }
+    .static {
+        margin: 2rem -20%;
+    }
+    .home-container h3 {
+        position: absolute;
+        top: -3%;
+    }
+    .profile-footer {
+        width: 100% !important;
+    }
+    .home-container {
+        left: 10%;
+        position: absolute;
+    }
+    .loader {
+        left: 50%;
+    }
+    .explore-container {
+        flex-wrap: wrap;
+        width: 100% !important;
+    }
+    .explore-video {
+        width: 280px !important;
+        height: 280px !important;
+    }
+    .reels-block {
+        width: 70% !important;
+    }
+    .reels-video {
+        height: 550px !important;
+    }
+    .explore-video {
+        width: 260px !important;
+    }
+    .profile-container img {
+        width: 100px;
+        height: 100px;
+        margin: 0 2rem;
+    }
+    .posted-tab {
+        width: 60%;
+        height: 5vh;
+        display: flex;
+        left: 20% !important;
+        align-items: center;
+        justify-content: center;
+    }
+    .posted-tab h3 {
+        margin: 1rem auto !important;
+    }
+    .modal-content-weighter {
+        width: 500px !important;
+        flex-wrap: wrap;
+    }
+    .responsive-flex-body {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .modal-content-weighter .photo-reponsive {
+        width: 100%  !important;
+        left: 40%;
+        border-radius: 0;
+        height: 250px;
+        margin: 0 !important;
+    }
+    .create-post--user-info {
+        height: 50% !important;
+        position: absolute;
+        display: flex !important;
+        bottom: 0;
+    }
+    .create-post--user-info textarea {
+        height: 5%;
+        display: none !important;
+    }
+    .post-alt video {
+        margin: 0 1rem;
+        height: 50px;
+    }
+    .upload-post-section {
+        left: 0 !important;
+        margin: 0 -10% !important;
+    }
+    .share-post-user-name {
+        width: 100%;
+    }
+    .post-finish {
+        height: 40vh;
+        width: 100%;    
+        margin: 1rem 0;
+    }
+    .ss{
+        display: none !important;
+        width: 0 !important;
+        border: none !important;
+        height: 0 !important;
+    }
+    .post-alt video {
+        margin: 0;
+    }
+    .post-alt p {
+        margin: 0;
+    }
+}
+@media screen and (max-width:577px) {
+    .navbar {
+        width: 30vw;
+        width: 100%;
+        height: 10%;
+        display: flex !important;
+        flex-direction: row;
+        bottom: 0;
+    }
+    .profile-info {
+        right: 5% !important;
+        margin: 0 !important;
+    }
+    .name-user h3 {
+        font-size: 14px;
+    }
+    .static {
+        left: 18% !important;
+    }
+    .static p {
+        margin: 0 0.5rem !important;
+    }
+    .static img {
+        width: 70px !important;
+        height: 70px !important;
+        margin: 0 0.5rem!important;
+    }
+    .explore-modal {
+        flex-direction: column;
+        display: flex;
+        width: 90vw !important;
+        border-top-left-radius: 10px;
+        overflow: hidden;
+        height: 85vh !important;
+        border-top-right-radius: 10px;
+        top:50%;
+    }
+    .explore-video--statistics h4 {
+        margin: 0.5rem 1rem !important;
+    }
+    .posted-user--commented {
+        height: 5vh !important;
+    }
+    .explore-video--statistics i {
+        margin: 1rem !important;
+    }
+    .explore-modal video {
+        width: 80% !important;
+        top: 0;
+        background-color: rgb(38, 38, 38);
+        height: 200px !important;
+        margin: 0 auto !important;
+    }
+    .explore-video--comments  {
+        width: 100%;
+        height: 60% !important;
+    }
+    .close-explore-modal {
+        bottom: 0 !important;
+        left: 0 !important;
+        width: 40px;
+        height: 100px;
+        color: rgb(46, 45, 45) !important;
+        background-color: rgb(42, 40, 40);
+    }
+    .explore-video--statistics  {
+        height:17% !important;
+        background-color: white;
+        width: 100% !important;
+        bottom: 9%;
+    }
+    .explore-video--statistics input {
+        margin: 2.3rem 0 !important;
+        height: 4vh;
+        padding: 1.5rem 1rem;
+    }
+    .navbar-link {
+        display: flex;
+        height: 100%;
+        padding-right: 4rem;
+        width: 100%;
+        padding-top: 1rem;
+        flex-direction: row;  
+        justify-content: space-around !important;
+    }
+    .home-form {
+        width: 100% !important;
+    }
+    .info-text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+    .search-router {
+        display: none !important;
+    }
+    .nav-router {
+        width: 30% !important;
+        margin: 0 !important;
+        display: flex;
+        margin: 0rem 0.2rem !important;
+        align-items: center;
+        overflow: hidden;
+    }
+    .nav-router:hover i {
+        font-size:20px;
+        color: rgb(20, 10, 77);
+    }
+    .nav-router:hover {
+        background-color: white;
+    }
+    .nav-router i {
+        margin: 1rem !important;
+        margin: 0 .7rem;
+        font-size: 20px;
+    }
+    .navbar-text-img{
+        display: none;
+    }
+    .profile-container {
+        margin: 0 !important;
+    }
+    .addition-navbar {
+        width: 35vw;
+    }
+    .posts-block {
+        width: 120% !important;
+        margin: 10% -50% !important;
+    }
+    .profile-info {
+        margin: 1rem 0;
+        width: 100%;
+        left: 0 !important;
+        margin: 0 !important;
+    }
+    .static {
+        margin: 2rem -20%;
+    }
+    .home-container h3 {
+        position: absolute;
+        top: -3%;
+    }
+    .profile-footer {
+        width: 100% !important;
+    }
+    .home-container {
+        width: 100%;
+        position: absolute;
+    }
+    .loader {
+        left: 46%;
+    }
+    .explore-container {
+        flex-wrap: wrap;
+        width: 100% !important;
+    }
+    .explore-video {
+        width: 280px !important;
+        height: 280px !important;
+    }
+    .reels-block {
+        width: 90% !important;
+        margin: 0 -5%!important;
+    }
+    .modal-content {
+        width: 320px;
+        height: 400px;
+    }
+    .body-h3 h3 {
+        font-size: 17px;
+    }
+    .modal-content video {
+        height: 100%;
+    }
+    .modal-header h4{
+        padding-right: 2rem;
+        font-size: 14px;
+        left: -4%;
+    }
+    .reels-video {
+        height: 550px !important;
+    }
+    .explore-video {
+        width: 260px !important;
+    }
+    .profile-container img {
+        width: 100px;
+        height: 100px;
+        margin: 0 2rem;
+    }
+    .posted-tab {
+        width: 60%;
+        height: 5vh;
+        display: flex;
+        left: 20% !important;
+        align-items: center;
+        justify-content: center;
+    }
+    .posted-tab h3 {
+        margin: 1rem auto !important;
+    }
+    .modal-content-weighter {
+        width: 320px !important;
+        flex-wrap: wrap;
+        height: 500px;
+    }
+    .responsive-flex-body {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .post-finish p {
+        display: none;
+    }
+    .post-finish{
+        border: none;
+    }
+    .post-finish img {
+        border-radius: 20px;
+    }
+    .modal-content-weighter .photo-reponsive {
+        width: 95%  !important;
+        left: 65%;
+        border-radius: 0;
+        height: 250px;
+        margin: 0.4rem 0 !important;
+    }
+    .create-post--user-info {
+        height: 50% !important;
+        position: absolute;
+        display: flex !important;
+        bottom: 0;
+    }
+    .create-post--user-info textarea {
+        display: none !important;
+    }
+    .post-alt video {
+        margin: 0 1rem !important;
+        height: 50px;
+    }
+    .post-alt {
+        height: 20%;
+        width: 320px !important;
+    }
+    .upload-post-section {
+        left: 0 !important;
+        margin: 0 -35% !important;
+        text-align: center;
+    }
+    .share-post-user-name {
+        width: 100%;
+        margin: 2rem 0 !important;
+    }
+    .post-finish {
+        height: 40vh;
+        width: 100%;    
+        margin: 1rem 0;
+    }
+    .ss{
+        display: none !important;
+        width: 0 !important;
+        border: none !important;
+        height: 0 !important;
+    }
+    .post-alt video {
+        margin: 0;
+    }
+    .post-alt p {
+        margin: 0;
+    }
+    .reels-container .loader{
+        left: 30%;
+    }
+}
+
